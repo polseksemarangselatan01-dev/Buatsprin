@@ -1,0 +1,8 @@
+{
+  "name": "BUAT SPRIN",
+  "description": "Dashboard generator Surat Perintah (Sprin) 2 halaman siap cetak A4.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
